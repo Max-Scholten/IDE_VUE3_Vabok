@@ -1,0 +1,8 @@
+{
+  "instructions": "Les 0 — Wat is HTML?\n1) Open `index.html` en bekijk de structuur (doctype, html, head, body).\n2) Pas de tekst in de <h1> en <p> aan naar jouw naam en favoriete game.\n3) Sla op en open `index.html` in de browser om je veranderingen te zien.\n4) Probeer een extra paragraaf (<p>) toe te voegen en te bekijken.",
+  "files": {
+    "index.html": "<!-- index.html -->\r\n <!DOCTYPE html>\r\n<html>\r\n<head>\r\n    <title>Lesson 0 - Hello World</title>\r\n</head>\r\n<body>\r\n    <!-- This is your first HTML page -->\r\n    <h1>Hello World!</h1>\r\n    <p>Welcome to the HTML course about Games 🎮</p>\r\n</body>\r\n</html>\r\n",
+    "style.css": "/* style.css */",
+    "script.js": "// script.js"
+  }
+}

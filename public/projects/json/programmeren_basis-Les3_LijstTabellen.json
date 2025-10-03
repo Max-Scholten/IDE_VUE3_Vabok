@@ -1,0 +1,8 @@
+{
+  "instructions": "Les 3 — Lijsten en Tabellen\n1) Open `index.html`. Voeg items toe aan de ongeordende lijst (ul) en ordende lijst (ol).\n2) Maak een extra tabelrij (<tr>) met een nieuwe game en jaartal.\n3) Gebruik `style.css` om de tabel duidelijker te maken (padding, border).\n4) Controleer of de pagina netjes leesbaar is in de browser.",
+  "files": {
+    "index.html": "<!-- index.html -->\r\n <!DOCTYPE html>\r\n<html>\r\n<head>\r\n    <title>Lesson 3 - Lists & Tables</title>\r\n    <link rel=\"stylesheet\" href=\"style.css\">\r\n</head>\r\n<body>\r\n    <h1>My Favorite Games</h1>\r\n\r\n    <!-- Unordered List -->\r\n    <h2>Top 3 Games</h2>\r\n    <ul>\r\n        <li>Minecraft</li>\r\n        <li>Fortnite</li>\r\n        <li>League of Legends</li>\r\n    </ul>\r\n\r\n    <!-- Ordered List -->\r\n    <h2>Steps to Start a Game</h2>\r\n    <ol>\r\n        <li>Turn on PC</li>\r\n        <li>Open the game</li>\r\n        <li>Start playing!</li>\r\n    </ol>\r\n\r\n    <!-- Table -->\r\n    <h2>Game Release Years</h2>\r\n    <table border=\"1\">\r\n        <tr>\r\n            <th>Game</th>\r\n            <th>Year</th>\r\n        </tr>\r\n        <tr>\r\n            <td>Minecraft</td>\r\n            <td>2011</td>\r\n        </tr>\r\n        <tr>\r\n            <td>Fortnite</td>\r\n            <td>2017</td>\r\n        </tr>\r\n    </table>\r\n</body>\r\n</html>\r\n",
+    "style.css": "/* style.css */\r\ntable {\r\n    border-collapse: collapse;\r\n    width: 50%;\r\n}\r\nth, td {\r\n    padding: 8px;\r\n    text-align: left;\r\n}",
+    "script.js": "// script.js"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "instructions": "Les 5 — Styling en JavaScript\n1) Open `style.css` en `script.js`.\n2) Pas de stijl van de knop aan (kleur, padding, border-radius).\n3) Implementeer in `script.js` een extra functie die tekst verandert in een <p>-element.\n4) Test de interactieve knop en bekijk de console voor mogelijke fouten.",
+  "files": {
+    "index.html": "<!-- index.html -->\r\n <!DOCTYPE html>\r\n<html>\r\n<head>\r\n    <title>Lesson 5 - CSS & JS</title>\r\n    <link rel=\"stylesheet\" href=\"style.css\">\r\n</head>\r\n<body>\r\n    <h1>Games & Interactivity</h1>\r\n\r\n    <p id=\"message\">Click the button to see a message:</p>\r\n    <button onclick=\"showMessage()\">Click Me!</button>\r\n\r\n    <script src=\"script.js\"></script>\r\n</body>\r\n</html>\r\n",
+    "style.css": "/* style.css */\r\nbody {\r\n    font-family: Arial, sans-serif;\r\n    margin: 20px;\r\n    background-color: #f0f0f0;\r\n}\r\n\r\nbutton {\r\n    background-color: blue;\r\n    color: white;\r\n    padding: 10px;\r\n    border: none;\r\n    border-radius: 5px;\r\n    cursor: pointer;\r\n}\r\n\r\nbutton:hover {\r\n    background-color: darkblue;\r\n}\r\n",
+    "script.js": "// script.js\r\n\r\n// Function runs when button is clicked\r\nfunction showMessage() {\r\n    alert(\"You clicked the button! 🎮\");\r\n}\r\n"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "instructions": "Les 4 — Forms (formulieren)\n1) Open `index.html` en bekijk het formulier.\n2) Voeg een nieuw invoerveld toe (bijv. e-mailadres) met een label.\n3) Voeg eenvoudige validatie toe met HTML-attributen (required, type=\"email\").\n4) Test het formulier in de browser en bekijk wat er gebeurt bij submit.",
+  "files": {
+    "index.html": "<!-- index.html -->\r\n <!DOCTYPE html>\r\n<html>\r\n<head>\r\n    <title>Lesson 4 - Forms</title>\r\n    <link rel=\"stylesheet\" href=\"style.css\">\r\n</head>\r\n<body>\r\n    <h1>Favorite Game Form</h1>\r\n\r\n    <!-- Simple Form -->\r\n    <form>\r\n        <label for=\"name\">Your Name:</label><br>\r\n        <input type=\"text\" id=\"name\" name=\"name\"><br><br>\r\n\r\n        <label for=\"game\">Favorite Game:</label><br>\r\n        <input type=\"text\" id=\"game\" name=\"game\"><br><br>\r\n\r\n        <input type=\"submit\" value=\"Submit\">\r\n    </form>\r\n</body>\r\n</html>\r\n",
+    "style.css": "/* style.css */\r\ninput {\r\n    margin: 5px 0;\r\n    padding: 5px;\r\n}",
+    "script.js": "// script.js"
+  }
+}

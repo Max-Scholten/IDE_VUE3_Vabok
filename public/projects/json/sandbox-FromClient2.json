@@ -1,0 +1,8 @@
+{
+  "files": {
+    "script.js": "console.log(42);",
+    "style.css": "body{margin:0}",
+    "index.html": "<h1>Test</h1>"
+  },
+  "instructions": "Test from new flow"
+}

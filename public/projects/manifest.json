@@ -1,0 +1,57 @@
+[
+  {
+    "folder": "programmeren_basis",
+    "name": "Les0_Watishtml",
+    "file": "programmeren_basis-Les0_Watishtml.json"
+  },
+  {
+    "folder": "programmeren_basis",
+    "name": "Les1_StandaardStructuur",
+    "file": "programmeren_basis-Les1_StandaardStructuur.json"
+  },
+  {
+    "folder": "programmeren_basis",
+    "name": "Les2_LinksImage",
+    "file": "programmeren_basis-Les2_LinksImage.json"
+  },
+  {
+    "folder": "programmeren_basis",
+    "name": "Les3_LijstTabellen",
+    "file": "programmeren_basis-Les3_LijstTabellen.json"
+  },
+  {
+    "folder": "programmeren_basis",
+    "name": "Les4_Forms",
+    "file": "programmeren_basis-Les4_Forms.json"
+  },
+  {
+    "folder": "programmeren_basis",
+    "name": "Les5_StylingScript",
+    "file": "programmeren_basis-Les5_StylingScript.json"
+  },
+  {
+    "folder": "sandbox",
+    "name": "PlayGround",
+    "file": "sandbox-PlayGround.json"
+  },
+  {
+    "folder": "sandbox",
+    "name": "Demo",
+    "file": "sandbox-Demo.json"
+  },
+  {
+    "folder": "sandbox",
+    "name": "FromClient2",
+    "file": "sandbox-FromClient2.json"
+  },
+  {
+    "folder": "sandbox",
+    "name": "alfa",
+    "file": "sandbox-alfa.json"
+  },
+  {
+    "folder": "GUI",
+    "name": "Test",
+    "file": "GUI-Test.json"
+  }
+]

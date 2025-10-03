@@ -1,0 +1,8 @@
+{
+  "instructions": "Les 1 — Standaard HTML-structuur\n1) Open `index.html` en `style.css`.\n2) Verander de titels (<h1>, <h2>, <h3>) zodat ze over jouw favoriete spel gaan.\n3) Pas de CSS in `style.css` aan (bijv. font-family of achtergrondkleur) en refresh de pagina.\n4) Experimenteer met een nieuwe <div> en voeg inhoud toe.",
+  "files": {
+    "index.html": "<!-- index.html -->\r\n <!DOCTYPE html>\r\n<html>\r\n<head>\r\n    <title>Lesson 1 - Basic HTML Structure</title>\r\n    <link rel=\"stylesheet\" href=\"style.css\">\r\n</head>\r\n<body>\r\n    <!-- Headings show different importance -->\r\n    <h1>Games Website</h1>\r\n    <h2>Welcome to Lesson 1</h2>\r\n    <h3>Basic HTML Tags</h3>\r\n\r\n    <!-- Paragraph -->\r\n    <p>This is a website about games. HTML uses tags to structure text.</p>\r\n\r\n    <!-- Div (used as a container) -->\r\n    <div>\r\n        <p>Inside this div, we can group content.</p>\r\n    </div>\r\n</body>\r\n</html>\r\n",
+    "style.css": "/* style.css */\r\nbody {\r\n    font-family: Arial, sans-serif;\r\n}\r\n",
+    "script.js": "// script.js"
+  }
+}

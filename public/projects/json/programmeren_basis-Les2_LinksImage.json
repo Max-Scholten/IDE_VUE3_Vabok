@@ -1,0 +1,8 @@
+{
+  "instructions": "Les 2 — Links en afbeeldingen\n1) Open `index.html`. Voeg een link (<a>) toe naar je favoriete game-winkel of site.\n2) Vervang de voorbeeldafbeelding door een plaatje van jouw favoriete game en voeg een duidelijke `alt`-tekst toe.\n3) Gebruik `style.css` om de afbeelding te stylen (bijv. border, max-width).\n4) Zorg dat externe links `target=\"_blank\"` gebruiken als je ze in een nieuw tabblad wilt openen.",
+  "files": {
+    "index.html": "<!-- index.html -->\r\n <!DOCTYPE html>\r\n<html>\r\n<head>\r\n    <title>Lesson 2 - Links & Images</title>\r\n    <link rel=\"stylesheet\" href=\"style.css\">\r\n</head>\r\n<body>\r\n    <h1>Popular Games</h1>\r\n\r\n    <!-- Link to an external website -->\r\n    <p>Visit <a href=\"https://store.steampowered.com\" target=\"_blank\">Steam</a> to buy games.</p>\r\n\r\n    <!-- Image -->\r\n    <h2>Game Cover Example</h2>\r\n    <img src=\"https://via.placeholder.com/200x300?text=Game+Cover\" alt=\"Game Cover\">\r\n</body>\r\n</html>\r\n",
+    "style.css": "/* style.css */\r\n\r\n/* Style the image */\r\nimg {\r\n    border: 2px solid black;\r\n    margin-top: 10px;\r\n}\r\n",
+    "script.js": "// script.js"
+  }
+}
