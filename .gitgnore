@@ -1,0 +1,52 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+*.log
+
+# Dependency directories
+jspm_packages/
+bower_components/
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# npm logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Composer
+/vendor/
+
+# XAMPP specific
+*.bak
+*.tmp
+
+# Git
+.git/
+.gitignore
+
+# Misc
+*.swp
+*.swo
+*.lock
+
+# Vue specific
+*.local
+*.cache
+*.tsbuildinfo
